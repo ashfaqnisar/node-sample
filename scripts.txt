@@ -1,0 +1,15 @@
+Npm vs Yarn
+
+NPM: 
+- Install a package - npm install <package-name>
+- Install all the packages - npm install
+- Install global package - npm install -g <package-name>
+- remove package - npm remove <package>
+- run script - npm <script-name>
+
+Yarn: 
+- Install a package - yarn add <package-name> , --dev
+- Install all the packages - yarn install
+- Install global package - yarn global add <package>
+- remove package - yarn remove <package>
+- run script - yarn <script-name>
